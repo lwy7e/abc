@@ -7,12 +7,12 @@ tags:
 - Go
 
 ---
-![Go](Go语言入门笔记/go.jpg)
+![Go](https://hexo-lwy.oss-cn-hangzhou.aliyuncs.com/hexo/go.jpg)
 工作需要入手了 Go 语言，开发使用的是 [Gin Web Framework](https://github.com/gin-gonic/gin)。
 
 入手后发现语法和 PHP/Python/JavaScript 之流还是有很大区别的，下面对学习资料及入门笔记做简单整理。
 
-##  简介
+##  简介　
 
 * Go（又称 Golang ），由 Google 开发
 * 是一种 静态强类型、编译型、并发型，并具有垃圾回收功能的编程语言

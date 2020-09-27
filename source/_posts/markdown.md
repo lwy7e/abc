@@ -140,7 +140,8 @@ $$
 <!-- 标签别名 -->
 {% cq %} blah blah blah {% endcq %}
 ```
-![示例图片](markdown/blockquote-center.png "示例图片")
+![示例图片](
+https://hexo-lwy.oss-cn-hangzhou.aliyuncs.com/hexo/blockquote-center.png "示例图片")
 
 ## 突破容器宽度限制的图片
 

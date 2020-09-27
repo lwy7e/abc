@@ -13,14 +13,14 @@ tags:
 # 开启Hyper-V
 
 打开控制面板 - 程序和功能 - 启用或关闭Windows功能，勾选Hyper-V，然后点击确定即可，如图：
-![Hyper-V](windows上利用docker搭建lnmp开发环境/v.png)
+![Hyper-V](https://hexo-lwy.oss-cn-hangzhou.aliyuncs.com/hexo/v.png)
 
 下载windwos版本docker安装包 地址
 
 # 修改docker 镜像仓库
 
 安装好后登陆docker（没有账号的请到官网进行注册）
-![Hyper-V](windows上利用docker搭建lnmp开发环境/v2.png)
+![Hyper-V](https://hexo-lwy.oss-cn-hangzhou.aliyuncs.com/hexo/v2.png)
 
 # 使用git快速获取lnmp
 
