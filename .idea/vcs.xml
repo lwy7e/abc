@@ -4,5 +4,10 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/.deploy_git" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/themes/next" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/themes/next-reloaded" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/themes/next2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/themes/next3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/themes2/next" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/themes2/next2" vcs="Git" />
   </component>
 </project>
