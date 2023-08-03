@@ -47,12 +47,28 @@ highlight:
   tab_replace:
 prism_plugin:
   mode: 'preprocess' # realtime/preprocess
-  theme: 'prism' # default/prism/tomorrow/okaidia/duotone-dark/duotone-light/coy/dark/funky/atom-material
-  line_number: false # default false
-  custom_css:
+  theme: 'tomorrow' # default/prism/tomorrow/okaidia/duotone-dark/duotone-light/coy/dark/funky/atom-material
+  line_number: true # default false
+  custom_css: '/css/selection.css'
+#  custom_js: '/js/codeType.js'
   languages:
     - javascript
     - css
+    - php
+    - go
+    - bash
+    - json
+    - markdown
+    - python
+    - sql
+    - yaml
+    - html
+    - java
+    - less
+    - lua
+    - makefile
+    - nginx
+
 
 # Home page setting
 # path: Root path for your blogs index page. (default = '')

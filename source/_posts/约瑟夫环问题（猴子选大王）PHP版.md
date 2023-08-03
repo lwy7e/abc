@@ -22,7 +22,7 @@ tags:
 
     function monkeyKing($n, $m)
     {
-        $arr = range(1, $n);     //构造一个数组
+        $arr = range(1, $n);//构造一个数组
         $i   = 1;                       //从第一个开始循环
 
         while (count($arr) > 1) {          //如果总数大于1
