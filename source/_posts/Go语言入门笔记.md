@@ -57,7 +57,7 @@ export PATH=$PATH:$(go env GOPATH)/bin
 
 程序入口为：main.main。
 
-```
+``` go
 package main
 
 func main() {
@@ -68,7 +68,7 @@ func main() {
 
 创建新项目：/Users/jjy/go/src/exampleProject，新建文件 hello.go：
 
-```
+``` go
 package main
 
 import "fmt"

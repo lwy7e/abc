@@ -17,7 +17,7 @@ tags:
 
 用程序模拟该过程，代码如下：
 
-```
+``` php
 <?php
 
     function monkeyKing($n, $m)
@@ -41,7 +41,7 @@ tags:
 ```
 
 
-```
+``` php
     function king($n, $m)
     {
         $monkey = range(1, $n);            //模拟建立一个连续数组
